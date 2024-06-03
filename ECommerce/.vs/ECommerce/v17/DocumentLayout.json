@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\rapha\\source\\repos\\ECommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AFD2DF80-3C51-49EF-B8ED-4268205C9C7A}|ECommerce.nunitTests\\ECommerce.nunitTests.csproj|c:\\users\\rapha\\source\\repos\\ecommerce\\ecommerce.nunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD2DF80-3C51-49EF-B8ED-4268205C9C7A}|ECommerce.nunitTests\\ECommerce.nunitTests.csproj|solutionrelative:ecommerce.nunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F51AD0C-71F5-44E9-A3EB-AD3041B7C62E}|ECommerce\\ECommerce.csproj|c:\\users\\rapha\\source\\repos\\ecommerce\\ecommerce\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F51AD0C-71F5-44E9-A3EB-AD3041B7C62E}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F51AD0C-71F5-44E9-A3EB-AD3041B7C62E}|ECommerce\\ECommerce.csproj|C:\\Users\\rapha\\source\\repos\\ECommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F51AD0C-71F5-44E9-A3EB-AD3041B7C62E}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFD2DF80-3C51-49EF-B8ED-4268205C9C7A}|ECommerce.nunitTests\\ECommerce.nunitTests.csproj|c:\\users\\rapha\\source\\repos\\ecommerce\\ecommerce.nunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFD2DF80-3C51-49EF-B8ED-4268205C9C7A}|ECommerce.nunitTests\\ECommerce.nunitTests.csproj|solutionrelative:ecommerce.nunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFD2DF80-3C51-49EF-B8ED-4268205C9C7A}|ECommerce.nunitTests\\ECommerce.nunitTests.csproj|c:\\users\\rapha\\source\\repos\\ecommerce\\ecommerce.nunittests\\ecommerce.nunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AFD2DF80-3C51-49EF-B8ED-4268205C9C7A}|ECommerce.nunitTests\\ECommerce.nunitTests.csproj|solutionrelative:ecommerce.nunittests\\ecommerce.nunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,48 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ECommerce\\ECommerce\\Product.cs",
               "RelativeDocumentMoniker": "ECommerce\\Product.cs",
               "ToolTip": "C:\\Users\\rapha\\source\\repos\\ECommerce\\ECommerce\\Product.cs",
               "RelativeToolTip": "ECommerce\\Product.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T16:38:55.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ECommerce.nunitTests.csproj",
-              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ECommerce\\ECommerce.nunitTests\\ECommerce.nunitTests.csproj",
-              "RelativeDocumentMoniker": "ECommerce.nunitTests\\ECommerce.nunitTests.csproj",
-              "ToolTip": "C:\\Users\\rapha\\source\\repos\\ECommerce\\ECommerce.nunitTests\\ECommerce.nunitTests.csproj",
-              "RelativeToolTip": "ECommerce.nunitTests\\ECommerce.nunitTests.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-03T16:38:21.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ECommerce\\ECommerce.nunitTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "ECommerce.nunitTests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\rapha\\source\\repos\\ECommerce\\ECommerce.nunitTests\\UnitTest1.cs",
               "RelativeToolTip": "ECommerce.nunitTests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwFIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:38:17.198Z"
+              "WhenOpened": "2024-06-03T16:38:17.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ECommerce\\ECommerce\\Program.cs",
               "RelativeDocumentMoniker": "ECommerce\\Program.cs",
@@ -75,7 +60,8 @@
               "RelativeToolTip": "ECommerce\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:37:04.278Z"
+              "WhenOpened": "2024-06-03T16:37:04.278Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,7 @@
+C:\Users\rapha\source\repos\ECommerce\ECommerce\bin\Debug\ECommerce.exe.config
+C:\Users\rapha\source\repos\ECommerce\ECommerce\bin\Debug\ECommerce.exe
+C:\Users\rapha\source\repos\ECommerce\ECommerce\bin\Debug\ECommerce.pdb
+C:\Users\rapha\source\repos\ECommerce\ECommerce\obj\Debug\ECommerce.csproj.AssemblyReference.cache
+C:\Users\rapha\source\repos\ECommerce\ECommerce\obj\Debug\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\ECommerce\ECommerce\obj\Debug\ECommerce.exe
+C:\Users\rapha\source\repos\ECommerce\ECommerce\obj\Debug\ECommerce.pdb

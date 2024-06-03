@@ -9,18 +9,25 @@ namespace ECommerce
 {
     public class Product
     {
-        private int ProductID { get; set; }
-        private string ProductName { get; set; }
-        private double Price { get; set; }
-        private int Stock { get; set; }
+        public int ProductID { get; set; }
+        public string ProductName { get; set; }
+        public double Price { get; set; }
+        public int Stock { get; set; }
 
-        public void increaseStock(int count)
+        public Product(int ProductID, string ProductName, double Price, int Stock)
+        {
+            this.ProductID = ProductID;
+            this.ProductName = ProductName;
+            this.Price = Price;
+            this.Stock = Stock;
+        }
+        public void IncreaseStock(int count)
         {
             Stock += count;
         }
-        public void decreaseStock(int count)
+        public void DecreaseStock(int count)
         {
-            increaseStock(-count);
+            Stock -= count;
         }
     }
 }
