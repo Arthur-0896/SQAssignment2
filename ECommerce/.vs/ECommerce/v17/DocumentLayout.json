@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{6F51AD0C-71F5-44E9-A3EB-AD3041B7C62E}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F51AD0C-71F5-44E9-A3EB-AD3041B7C62E}|ECommerce\\ECommerce.csproj|c:\\users\\rapha\\source\\repos\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F51AD0C-71F5-44E9-A3EB-AD3041B7C62E}|ECommerce\\ECommerce.csproj|C:\\Users\\rapha\\source\\repos\\ECommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F51AD0C-71F5-44E9-A3EB-AD3041B7C62E}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "ECommerce\\Product.cs",
               "ToolTip": "C:\\Users\\rapha\\source\\repos\\ECommerce\\ECommerce\\Product.cs",
               "RelativeToolTip": "ECommerce\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T16:38:55.857Z",
               "EditorCaption": ""
@@ -44,15 +44,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ECommerce.nunitTests",
+              "Title": "ECommerce.nunitTests.csproj",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\ECommerce\\ECommerce.nunitTests\\ECommerce.nunitTests.csproj",
               "RelativeDocumentMoniker": "ECommerce.nunitTests\\ECommerce.nunitTests.csproj",
               "ToolTip": "C:\\Users\\rapha\\source\\repos\\ECommerce\\ECommerce.nunitTests\\ECommerce.nunitTests.csproj",
               "RelativeToolTip": "ECommerce.nunitTests\\ECommerce.nunitTests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-03T16:38:21.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T16:38:21.24Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "ECommerce.nunitTests\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:38:17.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T16:38:17.198Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "ECommerce\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:37:04.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T16:37:04.278Z"
             }
           ]
         }
